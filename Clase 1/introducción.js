@@ -78,6 +78,27 @@
   Usamos la consola. Desde el explorador puedo ya comenzar a programar JS, no tiene sentido hacerlo de esta manera
 
   Playgrounds
+  https://runjs.app/play
+
   No es la opción recomendada, es un entorno de ejecución de JS en la web
+  Esto es para gente que no tenga un ordenador
+  En un playground probamos código pero no lo usamos para desarrollar aplicaciones
+
+  Node.js
+  https://nodejs.org/
+
+  Crearon un entorno de ejecución de javascript fuera del navegador, lo que permite ejecutar javascript en mi pc
+  Hay una versión estable, se recomienda siempre instalar la versión estable, que contiene la versión estable de ECMAScript y de JS
+  Permitió usar JS para crear backend, aplicaciones de escritorio
+
+  Editores de Texto
+  https://code.visualstudio.com/
+
+  Es el editor más utilizado en todo el mundo, soporta Js de manera nativa
+
+  Guia de Estilos
+  https://google.github.io/styleguide/jsguide.html
+
+  Se deben aplicar buenas prácticas, para que todos los programadores sigan los standars
 
 */

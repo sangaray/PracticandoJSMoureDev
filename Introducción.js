@@ -69,6 +69,15 @@
 
   Vamos a trabajar con JS Puro, JS Vanilla, sin frameworks
 
-  
+  Exploradores Recomendados, los basados en Chromiun, implementan muy bien los standars
+
+  - Brave
+  - Chrome
+
+  Inspeccionador en el navegador
+  Usamos la consola. Desde el explorador puedo ya comenzar a programar JS, no tiene sentido hacerlo de esta manera
+
+  Playgrounds
+  No es la opción recomendada, es un entorno de ejecución de JS en la web
 
 */
